@@ -22,3 +22,4 @@ calculater.minus(7 , 3);
 calculater.multiple(3, 7);
 calculater.divide(6, 3);
 calculater.power(2, 8);
+alert("awesome!!");
